@@ -41,6 +41,6 @@
 
 ### Github Stats:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manik-dhanjal&show_icons=true&theme=radical&include_all_commits=true"/>
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=manik-dhanjal&show_icons=true&theme=radical&include_all_commits=true"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-dhanjal&layout=compact"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-dhanjal&layout=compact"/>
