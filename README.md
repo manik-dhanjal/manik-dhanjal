@@ -38,6 +38,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 
+
 ### Github Stats:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=manik-dhanjal&show_icons=true&theme=radical&include_all_commits=true"/>
