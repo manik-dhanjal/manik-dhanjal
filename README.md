@@ -1,7 +1,7 @@
 # Hi there, I'm Manik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Game Engine Development with C++ & Go
+- 🌱 &nbsp;I’m currently learning Game Engine Development with C++.
 - 💬 &nbsp;Ask me about anything related to JavaScript/C++ or Node/React
 - 📫 &nbsp;How to reach me: [@manikdhanjal](https://www.linkedin.com/in/manik-s-d/)
 - 👨‍💻 &nbsp;Read more about my projects at [manikdhanjal.com](https://www.manikdhanjal.com/)
