@@ -46,3 +46,8 @@
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=manik-dhanjal&show_icons=true&theme=radical&include_all_commits=true"/>
 
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-dhanjal&layout=compact"/>
+
+<p align="center"> 
+   Visitor count<br>
+  <img src="https://profile-counter.glitch.me/manik-dhanjal/count.svg" />
+</p>
