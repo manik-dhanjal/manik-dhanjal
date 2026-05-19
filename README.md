@@ -98,10 +98,25 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manik-dhanjal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/manik-dhanjal)
 
-**Top Languages:** TypeScript · Java · Python · Go · JavaScript  
-**Most Active:** Backend Infrastructure · Observability Tools · Data Pipelines
+<table>
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manik-dhanjal&theme=tokyonight" alt="Profile Details"></td>
+</tr>
+</table>
 
-📊 [View my contributions](https://github.com/manik-dhanjal?tab=contributions)
+<table>
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manik-dhanjal&theme=tokyonight" alt="Top Languages by Repo"></td>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manik-dhanjal&theme=tokyonight" alt="Top Languages by Commits"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manik-dhanjal&theme=tokyonight" alt="Stats Card"></td>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manik-dhanjal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"></td>
+</tr>
+</table>
 
 ---
 
